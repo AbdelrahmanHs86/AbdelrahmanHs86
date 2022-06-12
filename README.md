@@ -7,7 +7,8 @@
 
 Here are some ideas to get you started:
 
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="200px" />
+<img align="right" width="300"  src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
