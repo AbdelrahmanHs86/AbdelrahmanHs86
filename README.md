@@ -4,7 +4,10 @@
 **AbdelrahmanHs86/AbdelrahmanHs86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
 Here are some ideas to get you started:
+
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="200px" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,5 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align="right" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif" width="200px" />
+
+
 
