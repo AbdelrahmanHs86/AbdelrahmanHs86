@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-<img align="right" width="300"  src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+<img align="right" width="250"  src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" />
 
 
 - 🔭 I’m currently working on ...
