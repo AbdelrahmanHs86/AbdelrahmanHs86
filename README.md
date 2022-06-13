@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-<img align="right" width="250"  src="https://github.com/AbdelrahmanHs86/AbdelrahmanHs86/blob/main/ezgifcom-gif-maker-4.gif" />
+<img align="right" width="350"  src="https://github.com/AbdelrahmanHs86/AbdelrahmanHs86/blob/main/ezgifcom-gif-maker-4.gif" />
 
 
 - 🔭 I’m currently working on ...
