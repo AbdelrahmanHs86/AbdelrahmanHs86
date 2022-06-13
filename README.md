@@ -74,9 +74,10 @@ An IS student at Kocaeli University. I'm a frontend developer and I'm passionate
 
 </details>
           
+### Examples of work:
 
-          
-
+<a href="https://github.com/AbdelrahmanHs86/MyReads-A-Book-Tracking-App"> <img width="400" src="https://github.com/AbdelrahmanHs86/AbdelrahmanHs86/blob/main/myReads3.gif"> </a>
+         
 
        
 
