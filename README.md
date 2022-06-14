@@ -80,7 +80,7 @@ An IS student at Kocaeli University. I'm a frontend developer and I'm passionate
        
 <a href="https://github.com/AbdelrahmanHs86/CreativeAgencyTemplate"> <img align="left" width="300" src="https://github.com/AbdelrahmanHs86/CreativeAgencyTemplate/blob/master/images/creativeAgency.png"> </a>
 
-<a href="https://github.com/AbdelrahmanHs86/KOU-2.0"> <img align="left" width="300" src="https://github.com/AbdelrahmanHs86/KOU-2.0/blob/main/images/kou-homepage.png"> </a>
+<a href="https://github.com/AbdelrahmanHs86/KOU-2.0"> <img  width="300" src="https://github.com/AbdelrahmanHs86/KOU-2.0/blob/main/images/kou-homepage.png"> </a>
        
 
 
