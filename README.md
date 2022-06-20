@@ -60,19 +60,19 @@ An IS student at Kocaeli University. I'm a frontend developer and I'm passionate
 
 <br>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbdelrahmanHs86&&theme=xcode)](https://github.com/AbdelrahmanHs86)
+<!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbdelrahmanHs86&&theme=xcode)](https://github.com/AbdelrahmanHs86) -->
       
           
 
 
 
-<details>
+<!-- <details>
 <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
+</details> -->
           
 ### Examples of work:
 
