@@ -14,7 +14,7 @@ An IS student at Kocaeli University. I'm a frontend developer and I'm passionate
 
 - 🔭 I’m currently working on **My Reads Project**
 
-- 🌱 I’m currently learning **Redux**, **Sass**
+- 🌱 I’m currently learning **Redux**, **Sass**, and **Agile**
 
 - 💬 Ask me about **Frontend**, **React** 
 
