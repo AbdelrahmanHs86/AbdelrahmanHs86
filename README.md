@@ -18,7 +18,7 @@ An IS student at Kocaeli University. I'm a frontend developer and I'm passionate
 
 - 💬 Ask me about **Frontend**, **React** 
 
-- 🥅 2022 Goals: Learn **Nextjs** and **contribute more**
+- 🥅 2022 Goals: Learn **Nextjs**, **Gatsby**, and **contribute more**
 
 - ⚡ Fun fact: I like Design, Coding, and Photography
 
