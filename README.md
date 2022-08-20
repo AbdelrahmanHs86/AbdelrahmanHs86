@@ -63,16 +63,6 @@ An IS student at Kocaeli University. I'm a frontend developer and I'm passionate
 <!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbdelrahmanHs86&&theme=xcode)](https://github.com/AbdelrahmanHs86) -->
       
           
-
-
-
-<!-- <details>
-<summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details> -->
           
 ### Examples of work:
 
