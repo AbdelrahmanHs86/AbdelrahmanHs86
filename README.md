@@ -1,5 +1,5 @@
 <!-- ![React](https://github.com/AbdelrahmanHs86/AbdelrahmanHs86/blob/main/react-banner.jpg) -->
-<h1 align="center">Hi there 👋, I'm Abdelrahman Abdeltawab</h1>
+<h1 align="center">Hi there 👋, I'm Abdelrahman Hasan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
@@ -26,9 +26,9 @@ An IS student at Kocaeli University. I'm a frontend developer and I'm passionate
 
 ### Contact with me:
 
-[<img align="left" width="30"  src="https://github.com/AbdelrahmanHs86/AbdelrahmanHs86/blob/main/linkedin.png" />](https://www.linkedin.com/in/abdelrahman-abdeltawab-5453b121b/)
+[<img align="left" width="30"  src="https://github.com/AbdelrahmanHs86/AbdelrahmanHs86/blob/main/linkedin.png" />](https://www.linkedin.com/in/abd-linked)
 
-[<img width="30"  src="https://github.com/AbdelrahmanHs86/AbdelrahmanHs86/blob/main/gmail.png" />](mailto:bodi25sameh@gmail.com)
+[<img width="30"  src="https://github.com/AbdelrahmanHs86/AbdelrahmanHs86/blob/main/gmail.png" />](mailto:abd.contactme@gmail.com)
 
 
 
@@ -66,11 +66,12 @@ An IS student at Kocaeli University. I'm a frontend developer and I'm passionate
           
 ### Examples of work:
 
-<a  href="https://github.com/AbdelrahmanHs86/MyReads-A-Book-Tracking-App"> <img align="left" width="250" src="https://github.com/AbdelrahmanHs86/AbdelrahmanHs86/blob/main/myReads3.gif"> </a>
-       
-<a href="https://github.com/AbdelrahmanHs86/CreativeAgencyTemplate"> <img align="left" width="250" src="https://github.com/AbdelrahmanHs86/CreativeAgencyTemplate/blob/master/images/creativeAgency.png"> </a>
-
+<div>
+<a href="https://github.com/AbdelrahmanHs86/MyReads-A-Book-Tracking-App"> <img align="left" width="250" src="https://github.com/AbdelrahmanHs86/AbdelrahmanHs86/blob/main/myReads3.gif"> </a>
+      
+<a href="https://github.com/AbdelrahmanHs86/CreativeAgencyTemplate"> <img align="left" width="250" src="https://github.com/AbdelrahmanHs86/CreativeAgencyTemplate/blob/master/images/showcase.webp"> </a>
+      
 <a href="https://github.com/AbdelrahmanHs86/KOU-2.0"> <img  width="250" src="https://github.com/AbdelrahmanHs86/KOU-2.0/blob/main/images/kou-homepage.png"> </a>
-       
+</div>
 
 
