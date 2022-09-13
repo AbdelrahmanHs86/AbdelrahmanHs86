@@ -8,7 +8,7 @@ I'm a frontend developer and I'm passionate about combining the art of design wi
 
 <br>
 
-<img align="right" width="400"  src="https://github.com/AbdelrahmanHs86/AbdelrahmanHs86/blob/main/gif-maker.gif" />
+<!-- <img align="right" width="400"  src="https://github.com/AbdelrahmanHs86/AbdelrahmanHs86/blob/main/gif-maker.gif" /> -->
 
 
 
