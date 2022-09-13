@@ -4,7 +4,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 
-An IS student at Kocaeli University. I'm a frontend developer and I'm passionate about combining the art of design with the art of programming. I care about small details and I like dealing with different user-facing elements to create creative design solutions and UI reusable features. I keep learning new modern technologies that help me build good-functional, attractive, and great-looking applications and interfaces that give all the users, a comfortable, smooth, and responsive experience.
+I'm a frontend developer and I'm passionate about combining the art of design with the art of programming. I care about small details and I like dealing with different user-facing elements to create creative design solutions and UI reusable features. I keep learning new modern technologies that help me build good-functional, attractive, and great-looking applications and interfaces that give all the users, a comfortable, smooth, and responsive experience.
 
 <br>
 
